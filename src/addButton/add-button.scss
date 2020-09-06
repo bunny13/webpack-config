@@ -1,0 +1,13 @@
+$textcolor: white;
+$textcolorp: red;
+
+.hello-world-button {
+    background-color: aqua;
+    padding: 10;
+    font-size: 20;
+    color: $textcolor;
+}
+
+.hello-world-p {
+    color: $textcolorp;
+}
